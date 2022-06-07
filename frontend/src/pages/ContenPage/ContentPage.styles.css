@@ -1,0 +1,22 @@
+.ContentPage {
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+}
+
+.Contenttitle {
+    justify-content: center;
+}
+
+#container div{
+    display:inline-block;
+    width:130px;
+    justify-content:space-around
+}
+
+.by a:hover {
+    color: rgb(71, 12, 12);
+    background-color: transparent;
+    text-decoration: underline;
+    cursor: pointer;
+}
