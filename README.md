@@ -1,9 +1,4 @@
-# Group-3
-
-## Project Report: https://docs.google.com/document/d/1l0J0im4iR57U-LTGoXrkd-ShrgRCnM85gFnPK4hC3tY/edit?usp=sharing
-
-
-## Project Idea: SubFluence
+# Subfluence Video Sharing
 
 **Problem Statement:**
 Education is crucial in today's day and age. With students balancing their lives between work and school, finding the right resources to help them to succeed in their classes isn’t the simplest of tasks—especially if students work multiple jobs. Subfluence fixes this problem by providing students 24/7 access to its platform, where students can find tutorial videos and other resources for any class. This platform will provide students the convenience of getting help with class work, at their own convenience.
