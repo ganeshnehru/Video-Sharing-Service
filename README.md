@@ -1,15 +1,3 @@
-# Subfluence: 24/7 Video Sharing and Tutoring Platform
-
-## Table of Contents
-- **Introduction**
-- **Features**
-- **Technologies Used**
-- **Getting Started**
-- **Usage**
-- **Contributing**
-- **License**
-- **Contact**
-
 ## Introduction
 
 Welcome to Subfluence, a revolutionary video sharing service and tutoring platform designed to help students get personalized assistance with their class materials, 24/7! With the ongoing pandemic and limited availability of traditional tutoring resources, Subfluence aims to bridge the gap by offering a convenient way for students to access high-quality educational content and connect with teachers/tutors for their academic needs.
