@@ -1,27 +1,70 @@
-# Subfluence Video Sharing
+# Subfluence: 24/7 Video Sharing and Tutoring Platform
 
-**Problem Statement:**
-Education is crucial in today's day and age. With students balancing their lives between work and school, finding the right resources to help them to succeed in their classes isn’t the simplest of tasks—especially if students work multiple jobs. Subfluence fixes this problem by providing students 24/7 access to its platform, where students can find tutorial videos and other resources for any class. This platform will provide students the convenience of getting help with class work, at their own convenience.
+## Table of Contents
+- **Introduction**
+- **Features**
+- **Technologies Used**
+- **Getting Started**
+- **Usage**
+- **Contributing**
+- **License**
+- **Contact**
 
+## Introduction
 
-**Abstract:**
-Today, there are numerous students who are seeking assistance with class materials. Campus resources, such as peer-connections tutoring is not always available, when students need an in-person tutor the most. With the pandemic still affecting the world, it is also difficult to find and book in-person tutors. What if there was a platform where students can get 24/7 help with any assignments for a small monthly subscription fee? With Subfluence, it's now possible for students to get the help they need, whenever and wherever! 
+Welcome to Subfluence, a revolutionary video sharing service and tutoring platform designed to help students get personalized assistance with their class materials, 24/7! With the ongoing pandemic and limited availability of traditional tutoring resources, Subfluence aims to bridge the gap by offering a convenient way for students to access high-quality educational content and connect with teachers/tutors for their academic needs.
 
-**Approach:**
-Create a website/webapp using a MERN stack, hosted using a Cloud infrastructure by AWS, that will allow teacher/business users to upload content to the database and student users to subscribe to existing content creators. React frontend will handle the user input while the Express/Node backend will perform all the logic and communicate with the MongoDB Atlas cloud database. The application source code will be hosted through EC2 virtual machine.
+## Features
 
-**Persona:**
-Students with a busy work/life schedule who need a convenient way to get personalized assistance with their classes. 
+- **24/7 Availability:** Subfluence is accessible at any time, making it convenient for students with busy work/life schedules to get the help they need whenever and wherever.
 
-Teachers/tutors who want to get seen and make money. Students wanting a more streamlined learning experience or help
+- **Content Upload:** Teachers and business users can easily upload educational content, including lectures, tutorials, and study materials, to the platform's database.
 
+- **Subscription Model:** Student users can subscribe to their preferred content creators, gaining access to personalized assistance and a streamlined learning experience.
 
-## System architecture for SubFluence
+- **MERN Stack:** The platform is built using the MERN stack, combining the power of MongoDB, Express.js, React, and Node.js to deliver a seamless user experience.
 
-![SubFluence-Architecture](images/SubFluence-Architecture.png)
+- **Cloud Infrastructure:** Subfluence is hosted on AWS, leveraging the capabilities of cloud services like EC2 virtual machine and MongoDB Atlas for database management.
+
+## Technologies Used
+
+- Frontend: React
+- Backend: Node.js, Express.js
+- Database: MongoDB Atlas
+- Cloud Hosting: AWS (Amazon Web Services)
+
+## Architecture
+![Architecture](./images/Architecture.png)
 
 ## Empathy Map
-![Subfluence Empathy Map](images/Subfluence%20Empathy%20Map.png)
+![Empathy Map](./images/Empathy%20Map.png)
 
-## As is and To be
-![Subfluence As is and To be](images/As-Is%20and%20To-Be.png)
+## Getting Started
+
+To run the Subfluence application locally, follow these steps:
+
+1. Clone the repository from GitHub.
+2. Install the required dependencies for both frontend and backend using npm.
+3. Set up your AWS account and configure the necessary services (e.g., EC2, MongoDB Atlas).
+4. Connect the backend to your MongoDB Atlas database.
+5. Start the development servers for frontend and backend.
+
+## Usage
+
+### Student User
+1. Create an account or log in to Subfluence.
+2. Explore the available content creators.
+3. Subscribe to your preferred tutors/teachers to access their educational content.
+4. Engage in personalized learning and seek assistance with your assignments.
+
+### Teacher/Business User
+1. Sign up as a content creator on Subfluence.
+2. Upload your educational videos, lectures, tutorials, and study materials to the platform.
+3. Gain visibility among students and build your subscriber base.
+4. Help students succeed in their studies and earn money for your expertise.
+
+## Demo
+![Demo](./images/Demo.gif)
+
+
+

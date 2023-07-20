@@ -69,10 +69,6 @@ const LandingPage = (props) => {
                  <img src='creator1.jpg'></img>
             </div>
 
-            <div className='developers'>
-                <h3>Developers</h3><br></br>
-                <h3>Parmeet | Paramjot | Dylan | Ganesh</h3>
-            </div>
         </Fragment>
     );
 }
